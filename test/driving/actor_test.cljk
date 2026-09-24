@@ -1,5 +1,5 @@
 (ns driving.actor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [driving.actor :as actor]
             [driving.store :as store]))
 
